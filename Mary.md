@@ -34,3 +34,5 @@ The eager children cried.
 lamb, you know," lamb, you know,"  
 "Why, Mary loves the lamb, you know,"  
 The teacher did reply.
+
+### BA505 GitHub & Markdown [Link](https://guides.github.com/features/mastering-markdown/)
